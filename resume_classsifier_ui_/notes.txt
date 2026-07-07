@@ -1,0 +1,22 @@
+# changed the terminal from the C:\Users\anshu\OneDrive\Desktop\NLP Projects to C:\Users\anshu\OneDrive\Desktop\NLP Projects\resume_ui
+#  as i want those things to be worked out into them only 
+
+# python3 -m venv venv
+# source venv/bin/activate
+
+# resume_ui_project/
+# │
+# ├── models/
+# │   ├── model_k.pkl
+# │   ├── tfidf2.pkl
+# │
+# ├── app.py
+# ├── requirements.txt
+# └── venv/
+
+#  cntrl + c to stop the streamlit
+# you have streamlit installed in your global python environment
+
+# resume_bytes.decode("utf-8")
+# 👉 only works for .txt files
+# 👉 fails (or produces garbage) for PDF / DOCX
